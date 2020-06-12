@@ -35,6 +35,10 @@ patch:
         patched: '2020-06-12T19:39:27.713Z'
     - nodegit > lodash:
         patched: '2020-06-12T19:39:27.713Z'
+    - http-server > portfinder > async > lodash:
+        patched: '2020-06-12T19:41:21.777Z'
+    - nodegit > request-promise-native > request-promise-core > lodash:
+        patched: '2020-06-12T19:41:21.777Z'
   'npm:stringstream:20180511':
     - nodegit > node-gyp > request > stringstream:
         patched: '2020-06-12T19:39:27.713Z'
